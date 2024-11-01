@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Dancing+Script);
+
+@import url(components/container.css);
+@import url(components/text.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/decoration.css);
+
+
+body {
+	margin: 0px;
+	font-family: helvetica serif;
+	background-color: #F5F7F8;
+}
+
+h1,h2 {
+	margin-bottom: 0px;
+	font-family: times new roman;
+}
+
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+p {
+	font-family: Lato;
+}
